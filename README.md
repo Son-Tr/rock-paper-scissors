@@ -100,9 +100,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/sontr)
-- freeCodeCamp - [Add your name here](https://www.freecodecamp.org/Sontr)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Son-Tr)
+- LinkedIn - [@sontr](https://www.linkedin.com/in/sontr)
+- freeCodeCamp - [Son Tran](https://www.freecodecamp.org/Sontr)
+- Frontend Mentor - [@Son-Tr](https://www.frontendmentor.io/profile/Son-Tr)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
